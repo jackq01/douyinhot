@@ -1,6 +1,6 @@
 # 抖音热门视频分析系统：让自媒体创作告别低效与枯燥
 
-<video controls src="抖音热榜视频分析系统.mp4" title="Title"></video>
+<video controls src="[抖音热榜视频分析系统.mp4](https://raw.githubusercontent.com/jackq01/douyinhot/refs/heads/main/%E6%8A%96%E9%9F%B3%E7%83%AD%E6%A6%9C%E8%A7%86%E9%A2%91%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F.mp4)" title="Title"></video>
 ## 为什么要做？
 
 去年年中，我在社群里收到了一位粉丝的深夜私信，字里行间满是疲惫与无奈。他是一位专注美食垂类的自媒体创作者，靠着对美食的热爱和坚持，在抖音积累了几十万粉丝。但随着账号规模扩大，他却陷入了前所未有的困境：
